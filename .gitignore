@@ -1,4 +1,6 @@
-.pyc
-.log
-.db
-.uuid
+*.pyc
+*.log
+*.db
+*.uuid
+__pycache__/
+*.py[cod]
